@@ -26,6 +26,7 @@
 * How to work with place method
 
 2) Outputs are in "Tkinter/img"
+3) Syntax and details of options are given in "Tkinter/Tkinter.docx"
 
 ## Technologies
 Documentation is created with:
