@@ -3,7 +3,7 @@
 * [Technologies](#technologies)
 
 ## Index
-1) Full Documentation in "Tkinter/main documentation.ipynb"
+* Full Documentation in "Tkinter/main documentation.ipynb"
 
   * How to run tkinter app
   * How to create a sized Button
@@ -25,8 +25,8 @@
   * How to create PanedWindow
   * How to work with place method
 
-2) Outputs are in "Tkinter/img"
-3) Syntax and details of options are given in "Tkinter/Syntax and option details of tkinter.docx"
+* Outputs are in "Tkinter/img"
+* Syntax and details of options are given in "Tkinter/Syntax and option details of tkinter.docx"
 
 ## Technologies
 Documentation is created with:
